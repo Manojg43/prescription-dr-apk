@@ -21,7 +21,9 @@
     "react-native-screens": "^3.29.0",
     "@react-native-async-storage/async-storage": "^1.21.0",
     "react-native-print": "^0.11.0",
-    "react-native-pdf": "^6.7.3"
+    "react-native-pdf": "^6.7.3",
+    "@react-native-firebase/app": "^18.7.0",
+    "@react-native-firebase/firestore": "^18.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.5",
